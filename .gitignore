@@ -1,1 +1,3 @@
 **/.docker/
+**/.task/
+requirements*.txt
