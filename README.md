@@ -7,6 +7,8 @@ Docker image with [pandas](https://github.com/pandas-dev/pandas) installed.
 
 _Note: images using Python 2.7 are no longer supported_
 
+For `Python 3.6` version
+
 ## Pulling
 
 Pull image tags with the `pandas` version you wish to use:
