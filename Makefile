@@ -1,4 +1,4 @@
-REPO           := amancevice/pandas
+REPO           := mitjy/python-pandas
 STAGES         := lock latest jupyter slim alpine
 PANDAS_VERSION := $(shell grep pandas Pipfile | grep -o '[0-9.]\+')
 
